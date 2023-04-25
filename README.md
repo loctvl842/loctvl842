@@ -7,8 +7,8 @@ A guy falling in love with his Beast.
 - 📫 How to reach me **loclepnvx@gmail.com**
 
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=loctvl842&hide=issues,prs&show_icons=true&card_width=500px&ring_color=fc9867&line_height=30&title_color=ffd866&bg_color=2d2a2e&border_color=ff6188&text_color=a9dc76&icon_color=ab9df2" alt="ON NO's github stats" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loctvl842&langs_count=6&hide=ruby,c,vim%20script,emacs%20lisp&layout=compact&show_icons=true&card_width=500px&title_color=ffd866&bg_color=2d2a2e&border_color=ff6188&text_color=a9dc76&icon_color=ab9df2" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=loctvl842&hide=issues,prs&show_icons=true&card_width=400px&ring_color=fc9867&line_height=30&title_color=ffd866&bg_color=2d2a2e&border_color=ff6188&text_color=a9dc76&icon_color=ab9df2" alt="ON NO's github stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loctvl842&langs_count=6&hide=ruby,c,vim%20script,emacs%20lisp&layout=compact&show_icons=true&card_width=400px&title_color=ffd866&bg_color=2d2a2e&border_color=ff6188&text_color=a9dc76&icon_color=ab9df2" />
 </p>
 
 
