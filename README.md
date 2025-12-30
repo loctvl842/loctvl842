@@ -1,32 +1,24 @@
-### Hi there , It's ONNO
+### Hi there, It's ONNO
 
----
+<img align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTc3ZzAzajM5MnVnNG5jbng5d3J3bGJ6MG5lcjI0cHdzc3ltN3kyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jRxVLQqnIZSirO0g6S/giphy.gif" alt="Coding GIF" />
 
-A guy falling in love with his Beast.
+_A guy falling in love with his Beast 💻_
 
-- 📫 How to reach me **loclepnvx@gmail.com**
+<p>
+  <a href="mailto:loclepnvx@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://loctvl842.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
-<div align="center">
-  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTc3ZzAzajM5MnVnNG5jbng5d3J3bGJ6MG5lcjI0cHdzc3ltN3kyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jRxVLQqnIZSirO0g6S/giphy.gif"  />
-</div>
+<br clear="right"/>
 
 <p>
     <img align="center" src="https://github-readme-stats-seven-pi-99.vercel.app/api?username=loctvl842&hide=issues,prs&show_icons=true&card_width=400px&ring_color=fc9867&line_height=30&title_color=ff6188&bg_color=2d2a2e&border_color=ffd866&text_color=a9dc76&icon_color=ab9df2" alt="ONNO's github stats" />
     <img align="center" src="https://github-readme-stats-seven-pi-99.vercel.app/api/top-langs/?username=loctvl842&langs_count=6&hide=ruby,c,vim%20script,emacs%20lisp&layout=compact&show_icons=true&card_width=400px&title_color=ff6188&bg_color=2d2a2e&border_color=ffd866&text_color=a9dc76&icon_color=ab9df2" />
 </p>
-
-
-<!--
-**loctvl842/loctvl842** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
