@@ -1,4 +1,4 @@
-### Hi there, It's <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=28&pause=1000&color=2b7fff&vCenter=true&width=200&lines=ON+NO;Loc;loctvl842" alt="Typing SVG" style="vertical-align: middle;" />
+<h3>Hi there, It's <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&multiline=true&size=25&pause=1000&color=2b7fff&width=200&height=30&lines=ON+NO" alt="Typing SVG" style="vertical-align: middle;" /></h3>
 
 <img align="right" height="250" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTc3ZzAzajM5MnVnNG5jbng5d3J3bGJ6MG5lcjI0cHdzc3ltN3kyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jRxVLQqnIZSirO0g6S/giphy.gif" alt="Coding GIF" />
 
