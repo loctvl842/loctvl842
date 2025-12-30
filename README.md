@@ -8,11 +8,11 @@ _A guy falling in love with his Beast 💻_
   <a href="mailto:loclepnvx@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <a href="https://www.linkedin.com/in/loc-le-b2b195215/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://loctvl842.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  <a href="https://looc.dev/">
+    <img src="https://looc.dev/favicon.ico" alt="Portfolio" />
   </a>
 </p>
 
