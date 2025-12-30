@@ -1,6 +1,6 @@
 ### Hi there, It's ONNO
 
-<img align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTc3ZzAzajM5MnVnNG5jbng5d3J3bGJ6MG5lcjI0cHdzc3ltN3kyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jRxVLQqnIZSirO0g6S/giphy.gif" alt="Coding GIF" />
+<img align="right" height="250" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTc3ZzAzajM5MnVnNG5jbng5d3J3bGJ6MG5lcjI0cHdzc3ltN3kyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jRxVLQqnIZSirO0g6S/giphy.gif" alt="Coding GIF" />
 
 _A guy falling in love with his Beast 💻_
 
