@@ -15,6 +15,7 @@ _A guy falling in love with his Beast 💻_
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=data:image/x-icon;base64,INSERT_BASE64_HERE&logoColor=white" alt="Portfolio" />
   </a>
 </p>
+<img width="500" src="https://quotes-github-readme.vercel.app/api?type=horizontal&quoteColor=ff6188&authorColor=ffd866&backgroundColor=2d2a2e&symbolColor=ab9df2" alt="Dev Quote" />
 
 <br clear="right"/>
 
