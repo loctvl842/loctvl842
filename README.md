@@ -11,8 +11,8 @@ _A guy falling in love with his Beast 💻_
   <a href="https://www.linkedin.com/in/loc-le-b2b195215/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://looc.dev/">
-    <img src="https://looc.dev/favicon.ico" alt="Portfolio" />
+  <a href="https://looc.dev">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=data:image/x-icon;base64,INSERT_BASE64_HERE&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
